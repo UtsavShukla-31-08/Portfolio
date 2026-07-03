@@ -1,4 +1,4 @@
-# Alex Morgan — Portfolio (React + Vite)
+Portfolio (React + Vite)
 
 A modern, high-end personal portfolio for a UI/UX & Frontend Developer.
 Exact same design as the HTML version, rebuilt as a clean modular React app.
