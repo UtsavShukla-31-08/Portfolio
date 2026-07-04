@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="container">
         <div className="footer__inner">
           <div className="footer__brand">
-            Alex<span>Morgan.</span>
+            Utsav<span>Shukla</span>
           </div>
           <p className="footer__copy">
             © {new Date().getFullYear()} Utsav Shukla · Crafted with care &amp; ☕

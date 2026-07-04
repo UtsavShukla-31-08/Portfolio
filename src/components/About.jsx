@@ -73,9 +73,8 @@ export default function About() {
             </div>
 
             <p className="about__intro reveal delay-1">
-              I'm a <em> Frontend Developer &amp; UI/UX Designer</em> with 5+ years of
-              turning complex problems into elegant, user-centered solutions.
-            </p>
+              I'm a <em> Frontend Developer &amp; UI/UX Designer</em> passionate about turning complex problems into elegant, user-centered digital experiences.
+             </p>
 
             <p className="about__body reveal delay-2">
               My journey began in graphic design, evolved into UX research, and landed in

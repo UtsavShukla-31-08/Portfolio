@@ -15,12 +15,6 @@ const TIMELINE = [
     desc:    'Designed portfolio websites, landing pages, and mobile UI concepts using Figma. Focused on clean layouts, animations, and user-friendly experiences..',
   },
   
-  {
-    date:    '2017 — 2018',
-    role:    'Junior UX Designer',
-    company: 'Publicis Sapient · Internship',
-    desc:    'Conducted user research, wireframing, and usability testing for enterprise clients in the financial services sector.',
-  },
 ]
 
 const TECH = [
